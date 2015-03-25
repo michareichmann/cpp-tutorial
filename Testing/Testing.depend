@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1426693438 source:/home/reichmann/codeblocks/projects/Testing/vectors.cpp
+	<iostream>
+	<vector>
+	<string>
+	<map>
+
+1426751777 source:/home/reichmann/codeblocks/projects/Testing/9.6.cpp
+	<iostream>
+	<vector>
+	<string>
+	<map>
+
+1426752555 source:/home/reichmann/codeblocks/projects/Testing/9.8.cpp
+	<iostream>
+	<vector>
+	<string>
+	<map>
+	<cassert>
+

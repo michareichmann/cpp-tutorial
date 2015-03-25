@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1425482375 source:/home/reichmann/codeblocks/projects/Chapter 6/6_2.cpp
+	<iostream>
+	<iomanip>
+
+1425563440 source:/home/reichmann/codeblocks/projects/Chapter 6/main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+
+1425551308 source:/home/reichmann/codeblocks/projects/Chapter 6/6_3.cpp
+	<iostream>
+	<iomanip>
+
+1425564515 source:/home/reichmann/codeblocks/projects/Chapter 6/6_4.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+
+1425651669 source:/home/reichmann/codeblocks/projects/Chapter 6/6_10.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+

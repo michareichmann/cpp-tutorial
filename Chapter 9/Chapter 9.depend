@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1426838594 source:/home/reichmann/codeblocks/projects/Chapter 9/9.6.cpp
+	<iostream>
+	<vector>
+	<string>
+	<map>
+
+1426838594 source:/home/reichmann/codeblocks/projects/Chapter 9/9.8.cpp
+	<iostream>
+	<vector>
+	<string>
+	<map>
+	<cassert>
+
+1426851430 source:/home/reichmann/codeblocks/projects/Chapter 9/9.12..cpp
+	<iostream>
+	<string>
+	<cstring>
+

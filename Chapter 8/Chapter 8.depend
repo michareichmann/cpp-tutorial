@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1426149512 source:/home/reichmann/codeblocks/projects/Chapter 8/Date.cpp
+	<iostream>
+	"Date.h"
+
+1426149537 /home/reichmann/codeblocks/projects/Chapter 8/Date.h
+
+1426608229 source:/home/reichmann/codeblocks/projects/Chapter 8/main.cpp
+	<iostream>
+	<vector>
+	<stdint.h>
+
